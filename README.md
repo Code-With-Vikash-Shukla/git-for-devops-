@@ -10,4 +10,7 @@ In most cases the guesssed username is correct. However read your AMI intruction
 
 
 Hi, I am vikash shukla 
-iam from mau in uttar pradesh and currently i am purshing my B.SC from maharaja suheldev 
+iam from mau in uttar pradesh and currently i am purshing my B.SC from maharaja suheldev University Azamgarh Uttar pradesh 
+and i have a joint family and belong to a brahmin family .
+ i like a playing cricket , fottbals , volley ball etc .
+ 
