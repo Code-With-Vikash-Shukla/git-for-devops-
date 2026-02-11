@@ -128,6 +128,7 @@ Correct commands:
 git status
 git commit
 git branch
+git pull origin main 
 
 
 
